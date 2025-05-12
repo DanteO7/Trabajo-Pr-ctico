@@ -101,6 +101,10 @@
     gap: 20px;
   }
 
+  .service-card {
+    min-width: 90px;
+  }
+
   .company-container {
     justify-content: space-around;
   }
